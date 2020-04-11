@@ -5,6 +5,7 @@
 }
 #main-bio{
     float:left;
+    font-size: 20px;
   
 }
 #contact-info{
@@ -43,5 +44,9 @@ a {
     position: relative;
 }
 #bio-name{
-    
+    font-size: 40px;
+}
+.bio{
+    font-size: 20px;
+
 }
