@@ -1,0 +1,43 @@
+.container{
+    width:1024px;
+    position:absolute;
+    left:20%
+}
+#main-bio{
+    float:left;
+  
+}
+#contact-info{
+    float:left;
+    width:30%
+}
+#bio_image{
+    float:left;
+    width:200px
+}
+
+body{
+    background-color: #efeee7;
+    font:"Georgia";
+    color: #333333;
+}
+header{
+    background-color:#333333;
+
+}
+h1{
+    color:#eee;
+    font-size: 28px;
+}
+h2{
+    font-size: 24px
+}
+a {
+    color:#d21034;
+  }
+#figure{
+    position: relative;
+}
+#bio-name{
+    
+}
